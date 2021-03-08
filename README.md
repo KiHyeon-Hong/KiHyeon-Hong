@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KiHyeon-Hong
 
-<Main Skills>
+Main Skills
 
 <!---
 KiHyeon-Hong/KiHyeon-Hong is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
