@@ -8,7 +8,8 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KiHyeon-Hong&count_private=true&langs_count=8&layout=compact" />
 </a>
 
-<!---
-KiHyeon-Hong/KiHyeon-Hong is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p align="left">
+    <img src="https://img.shields.io/badge/-Python-1793D1?style=flat&logo=Python&logoColor=white">
+    <img src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=Node.js&logoColor=white">
+    <img src="https://img.shields.io/badge/-JavaScript-FCC624?style=flat&logo=Javascript&logoColor=white">
+</p>
