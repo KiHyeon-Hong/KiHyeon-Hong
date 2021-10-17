@@ -8,7 +8,7 @@
 
 ### Self-introduction
 
-- Research and Programming Balance
+- Studying, Researching and Programming Balance
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=KiHyeon-Hong&count_private=true&show_icons=true" />
