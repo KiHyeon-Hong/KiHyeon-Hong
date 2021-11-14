@@ -9,7 +9,7 @@
 -   (2021.02 ~ 2023.02) Gachon University - Master of Science in IT Convergence Engineering
 --->
 
-<br><br>
+<br>
 
 ### Self-introduction
 
@@ -28,7 +28,7 @@
   </a>
 </p>
 
-<br><br>
+<br>
 
 <p align="center">
     <img src="https://img.shields.io/badge/-Python-000000?style=flat&logo=Python&logoColor=white">
