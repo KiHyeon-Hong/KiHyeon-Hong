@@ -14,12 +14,12 @@
 
 - Studying, Researching and Programming Balance
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<p align="center"><a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=KiHyeon-Hong&count_private=true&show_icons=true" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
+</a></p>
+<p align="center"><a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KiHyeon-Hong&count_private=true&langs_count=8&layout=compact" />
-</a>
+</a></p>
 
 <br><br>
 
