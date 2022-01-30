@@ -50,14 +50,3 @@ Password Dictionaries,” Security and Communication Networks, vol. 2021, 2021.
 </p>
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=KiHyeon-Hong)
-
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=KiHyeon-Hong&count_private=true&show_icons=true" />
-  </a>
- </p>
-<p align="center">
-  <a href="https://github.com/anuraghazra/convoychat">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KiHyeon-Hong&count_private=true&langs_count=8&layout=compact" />
-  </a>
- </p>
