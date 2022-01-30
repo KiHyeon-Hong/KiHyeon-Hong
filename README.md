@@ -1,4 +1,4 @@
-## 👋 Hi, I’m @KiHyeon-Hong
+## 👋 Hi, I’m @KiHyeon-Hong (https://kihyeon-hong.github.io/)
 
 ### History
 
@@ -55,6 +55,3 @@ Password Dictionaries,” Security and Communication Networks, vol. 2021, 2021.
     <img src="https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=Javascript&logoColor=white">
 </p>
 -->
-
-### Git Blog
-- https://kihyeon-hong.github.io/
