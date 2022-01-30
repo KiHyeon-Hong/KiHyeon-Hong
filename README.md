@@ -16,12 +16,22 @@
 
 <br>
 
-### Paper
-
+### Conference
+- K. H. Hong, B. M. Lee, "Individual Identification based on EOG," in Proceeding of the Fall Conference of the Korea Multimedia Society, Seoul,
+Korea, November 2019.
+- K. H. Hong, B. M. Lee, "A Model for Password Security Assessment," in Proceeding of the Spring Conference of the Korea Multimedia Society,
+Daegu, Korea, April 2021.
+- K. H. Hong, B. M. Lee, "Blockchain-based biometric data security," in Proceeding of the Fall Conference of the Korea Multimedia Society, Seoul,
+Korea, November 2021
 <br>
 
-### Conference
-
+### Paper
+- K. H. Hong, B. M. Lee, and Y. J. Park, "Realtime Individual Identification Based on EOG Algorithm for Customized Sleep Care Service," Journal of
+Convergence for Information Technology, vol. 9, no. 12, pp. 8-16, 2019.
+- K. H. Hong, B. M. Lee, "Electrooculography Filtering Model Based on Machine Learning," Journal of Korea Multimedia Society, vol. 24, no. 2, pp.
+274-284, 2021.
+- K. H. Hong, U. G. Kang, and B. M. Lee, “Enhanced Evaluation Model of Security Strength for Passwords Using Integrated Korean and English
+Password Dictionaries,” Security and Communication Networks, vol. 2021, 2021.
 <br>
 
 ### Self-introduction
