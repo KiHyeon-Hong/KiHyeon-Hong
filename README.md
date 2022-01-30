@@ -36,22 +36,13 @@ Password Dictionaries,” Security and Communication Networks, vol. 2021, 2021.
   </a>
 </p>
 
-<!--
-<p align="center">
-  <a href="https://github.com/anuraghazra/convoychat">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KiHyeon-Hong&count_private=true&langs_count=8&layout=compact" />
-  </a>
-</p>
-<br>
--->
-
 [![trophy](https://github-profile-trophy.vercel.app/?username=KiHyeon-Hong&margin-w=10&margin-h=10&no-frame=true&no-bg=true&row=1&column=8)](https://github.com/ryo-ma/github-profile-trophy)
 
-<!--
+
 <p align="center">
     <img src="https://img.shields.io/badge/-Python-000000?style=flat&logo=Python&logoColor=white">
     <img src="https://img.shields.io/badge/-Node.js-000000?style=flat&logo=Node.js&logoColor=white">
     <img src="https://img.shields.io/badge/-C-000000?style=flat&logo=C&logoColor=white">
     <img src="https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=Javascript&logoColor=white">
 </p>
--->
+
