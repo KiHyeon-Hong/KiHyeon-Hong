@@ -53,8 +53,8 @@ Password Dictionaries,” Security and Communication Networks, vol. 2021, 2021.
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KiHyeon-Hong&repo=github-readme-stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=KiHyeon-Hong&count_private=true&show_icons=true" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KiHyeon-Hong&repo=convoychat" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KiHyeon-Hong&count_private=true&langs_count=8&layout=compact" />
 </a>
