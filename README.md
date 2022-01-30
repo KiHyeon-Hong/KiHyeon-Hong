@@ -7,12 +7,6 @@
 - (2021.02 ~ 2023.02) Gachon University - Master of Science in IT Convergence Engineering
 <br>
 
-### 
-
-![trophy](https://github-profile-trophy.vercel.app/?username=KiHyeon-Hong)
-
-<br>
-
 ### Conference
 - K. H. Hong, B. M. Lee, "Individual Identification based on EOG," in Proceeding of the Fall Conference of the Korea Multimedia Society, Seoul,
 Korea, November 2019.
@@ -34,7 +28,6 @@ Password Dictionaries,” Security and Communication Networks, vol. 2021, 2021.
 ### Self-introduction
 
 - Studying, Researching and Programming Balance
-
 <br>
 
 <p align="center">
@@ -47,7 +40,6 @@ Password Dictionaries,” Security and Communication Networks, vol. 2021, 2021.
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KiHyeon-Hong&count_private=true&langs_count=8&layout=compact" />
   </a>
 </p>
-
 <br>
 
 <p align="center">
@@ -56,3 +48,5 @@ Password Dictionaries,” Security and Communication Networks, vol. 2021, 2021.
     <img src="https://img.shields.io/badge/-C-000000?style=flat&logo=C&logoColor=white">
     <img src="https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=Javascript&logoColor=white">
 </p>
+
+![trophy](https://github-profile-trophy.vercel.app/?username=KiHyeon-Hong)
