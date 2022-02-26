@@ -23,6 +23,8 @@ Convergence for Information Technology, vol. 9, no. 12, pp. 8-16, 2019.
 274-284, 2021.
 - K. H. Hong, U. G. Kang, and B. M. Lee, “Enhanced Evaluation Model of Security Strength for Passwords Using Integrated Korean and English
 Password Dictionaries,” Security and Communication Networks, vol. 2021, 2021.
+- K. H. Hong, B. M. Lee,
+- K. H. Hong, B. M. Lee,
 <br>
 
 ### Self-introduction
