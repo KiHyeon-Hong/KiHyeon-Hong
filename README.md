@@ -24,7 +24,7 @@ Convergence for Information Technology, vol. 9, no. 12, pp. 8-16, 2019.
 - K. H. Hong, U. G. Kang, and B. M. Lee, “Enhanced Evaluation Model of Security Strength for Passwords Using Integrated Korean and English
 Password Dictionaries,” Security and Communication Networks, vol. 2021, 2021.
 - K. H. Hong, B. M. Lee, "A Deep Learning-Based Password Security Evaluation Model," Applied Sciences, vol. 12, no. 5, 2022.
-- K. H. Hong, B. M. Lee, "Collision Detection Algorithm using a 9-axis Sensor in Road Facility," Journal of Korea Multimedia Society, vol. 25, no. 2, pp. -, 2022.
+- K. H. Hong, B. M. Lee, "Collision Detection Algorithm using a 9-axis Sensor in Road Facility," Journal of Korea Multimedia Society, vol. 25, no. 2, pp. 297-310, 2022.
 <br>
 
 ### Self-introduction
