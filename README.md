@@ -42,6 +42,9 @@ Password Dictionaries,” Security and Communication Networks, vol. 2021, 2021.
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=KiHyeon-Hong&margin-w=10&margin-h=10&no-frame=true&no-bg=true&row=1&column=8)](https://github.com/ryo-ma/github-profile-trophy)
 
+[![Solved.ac
+](http://mazassumnida.wtf/api/v2/generate_badge?boj={handle})](https://solved.ac/{handle})
+
 <!--
 <p align="center">
     <img src="https://img.shields.io/badge/-Python-000000?style=flat&logo=Python&logoColor=white">
