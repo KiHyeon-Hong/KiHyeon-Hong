@@ -4,9 +4,8 @@
 
 - (2012.02 ~ 2015.02) Wolgye High School
 - (2015.02 ~ 2021.02) Gachon University - Bachelor of Science in Computer engineering
-<!--
 - (2021.02 ~ 2023.02) Gachon University - Master of Science in IT Convergence Engineering
--->
+
 <br>
 
 ### Conference
