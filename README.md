@@ -1,4 +1,4 @@
-## 👋 Hi, I’m @KiHyeon-Hong (https://kihyeon-hong.github.io/)
+## 👋 Hi, I’m @KiHyeon-Hong (https://www.linkedin.com/in/%EA%B8%B0%ED%98%84-%ED%99%8D-9a9032249/)
 
 ### History
 
