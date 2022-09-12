@@ -19,11 +19,13 @@
 ### Profile
 
 - https://www.linkedin.com/in/%EA%B8%B0%ED%98%84-%ED%99%8D-9a9032249/
+<br>
 
 
 ### Blog
 
 - https://kihyeon-hong.github.io/
+<br>
 
 
 ### Github activity record
@@ -32,6 +34,7 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=KiHyeon-Hong&count_private=true&show_icons=true" />
   </a>
 </p>
+<br>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=KiHyeon-Hong&margin-w=10&margin-h=10&no-frame=true&no-bg=true&row=1&column=8)](https://github.com/ryo-ma/github-profile-trophy)
 
