@@ -1,13 +1,5 @@
 ## 👋 Hi, I’m @KiHyeon-Hong
 
-### Profile
-
-- https://www.linkedin.com/in/%EA%B8%B0%ED%98%84-%ED%99%8D-9a9032249/
-
-### Blog
-
-- https://kihyeon-hong.github.io/
-
 ### History
 
 - (2012.02 ~ 2015.02) Wolgye High School
@@ -39,6 +31,14 @@
 ### Self-introduction
 - Studying, Researching and Programming Balance
 <br>
+
+### Profile
+
+- https://www.linkedin.com/in/%EA%B8%B0%ED%98%84-%ED%99%8D-9a9032249/
+
+### Blog
+
+- https://kihyeon-hong.github.io/
 
 ### Github activity record
 <p align="center">
