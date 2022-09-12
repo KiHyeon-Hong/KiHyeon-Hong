@@ -1,5 +1,6 @@
 ## 👋 Hi, I’m @KiHyeon-Hong
 
+
 ### History
 
 - (2012.02 ~ 2015.02) Wolgye High School
@@ -10,35 +11,20 @@
 <br>
 
 
-<!--
-### Conference
-- K. H. Hong, B. M. Lee, "Individual Identification based on EOG," in Proceeding of the Fall Conference of the Korea Multimedia Society, Seoul, Korea, November 2019.
-- K. H. Hong, B. M. Lee, "A Model for Password Security Assessment," in Proceeding of the Spring Conference of the Korea Multimedia Society, Daegu, Korea, April 2021.
-- K. H. Hong, B. M. Lee, "Blockchain-based biometric data security," in Proceeding of the Fall Conference of the Korea Multimedia Society, Seoul, Korea, November 2021
-- K. H. Hong, B. M. Lee, "A secure distribution technique of deep learning data based on blockchain," in Proceeding of the Spring Conference of the Korea Multimedia Society, Busan, Korea, May 2022.
-<br>
-
-### Paper
-- K. H. Hong, B. M. Lee, and Y. J. Park, "Realtime Individual Identification Based on EOG Algorithm for Customized Sleep Care Service," Journal of Convergence for Information Technology, vol. 9, no. 12, pp. 8-16, 2019.
-- K. H. Hong, B. M. Lee, "Electrooculography Filtering Model Based on Machine Learning," Journal of Korea Multimedia Society, vol. 24, no. 2, pp. 274-284, 2021.
-- K. H. Hong, U. G. Kang, and B. M. Lee, “Enhanced Evaluation Model of Security Strength for Passwords Using Integrated Korean and English Password Dictionaries,” Security and Communication Networks, vol. 2021, 2021.
-- K. H. Hong, B. M. Lee, "A Deep Learning-Based Password Security Evaluation Model," Applied Sciences, vol. 12, no. 5, 2022.
-- K. H. Hong, B. M. Lee, "Collision Detection Algorithm using a 9-axis Sensor in Road Facility," Journal of Korea Multimedia Society, vol. 25, no. 2, pp. 297-310, 2022.
-- K. H. Hong, B. M. Lee, 
-<br>
--->
-
 ### Self-introduction
 - Studying, Researching and Programming Balance
 <br>
+
 
 ### Profile
 
 - https://www.linkedin.com/in/%EA%B8%B0%ED%98%84-%ED%99%8D-9a9032249/
 
+
 ### Blog
 
 - https://kihyeon-hong.github.io/
+
 
 ### Github activity record
 <p align="center">
