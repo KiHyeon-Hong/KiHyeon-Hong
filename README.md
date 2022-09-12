@@ -6,7 +6,7 @@
 
 ### Blog
 
-- 
+- https://kihyeon-hong.github.io/
 
 ### History
 
