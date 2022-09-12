@@ -1,4 +1,12 @@
-## 👋 Hi, I’m @KiHyeon-Hong (https://www.linkedin.com/in/%EA%B8%B0%ED%98%84-%ED%99%8D-9a9032249/)
+## 👋 Hi, I’m @KiHyeon-Hong
+
+### Profile
+
+- https://www.linkedin.com/in/%EA%B8%B0%ED%98%84-%ED%99%8D-9a9032249/
+
+### Blog
+
+- 
 
 ### History
 
@@ -9,6 +17,8 @@
 -->
 <br>
 
+
+<!--
 ### Conference
 - K. H. Hong, B. M. Lee, "Individual Identification based on EOG," in Proceeding of the Fall Conference of the Korea Multimedia Society, Seoul, Korea, November 2019.
 - K. H. Hong, B. M. Lee, "A Model for Password Security Assessment," in Proceeding of the Spring Conference of the Korea Multimedia Society, Daegu, Korea, April 2021.
@@ -24,6 +34,7 @@
 - K. H. Hong, B. M. Lee, "Collision Detection Algorithm using a 9-axis Sensor in Road Facility," Journal of Korea Multimedia Society, vol. 25, no. 2, pp. 297-310, 2022.
 - K. H. Hong, B. M. Lee, 
 <br>
+-->
 
 ### Self-introduction
 - Studying, Researching and Programming Balance
