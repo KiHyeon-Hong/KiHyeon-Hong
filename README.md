@@ -1,6 +1,5 @@
 ## 👋 Hi, I’m @KiHyeon-Hong
 
-
 ### History
 
 - (2012.02 ~ 2015.02) Wolgye High School
