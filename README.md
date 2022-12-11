@@ -1,27 +1,25 @@
 ## 👋 Hi, I’m @KiHyeon-Hong
 
-
 ### History
 
-- (2012.02 ~ 2015.02) Wolgye High School
-- (2015.02 ~ 2021.02) Gachon University - Bachelor of Science in Computer engineering
-<!--
-- (2021.02 ~ 2023.02) Gachon University - Master of Science in IT Convergence Engineering
--->
+- (2021.03. ~ 2023.02.) Gachon University - Master of Science in IT Convergence Engineering
+- (2015.03. ~ 2021.02.) Gachon University - Bachelor of Science in Computer engineering
+- (2012.03. ~ 2015.02.) Wolgye High School
 
 
-### 이력서
+### Resume
 
 - https://treasure-education-e9f.notion.site/a455349081d0424583f62a11de4e6076
-
-### LinkedIn
-
-- https://www.linkedin.com/in/%EA%B8%B0%ED%98%84-%ED%99%8D-9a9032249/
 
 
 ### Blog
 
 - https://kihyeon-hong.github.io/
+
+
+### LinkedIn
+
+- https://www.linkedin.com/in/%EA%B8%B0%ED%98%84-%ED%99%8D-9a9032249/
 
 
 ### Self-introduction
