@@ -1,5 +1,6 @@
 ## 👋 Hi, I’m @KiHyeon-Hong
 
+
 ### History
 
 - (2012.02 ~ 2015.02) Wolgye High School
@@ -9,7 +10,11 @@
 -->
 
 
-### Profile
+### 이력서
+
+- https://treasure-education-e9f.notion.site/a455349081d0424583f62a11de4e6076
+
+### LinkedIn
 
 - https://www.linkedin.com/in/%EA%B8%B0%ED%98%84-%ED%99%8D-9a9032249/
 
