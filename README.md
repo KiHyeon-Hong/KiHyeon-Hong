@@ -1,6 +1,6 @@
 ## 👋 Hi, I’m @KiHyeon-Hong
 
-### History
+### Personal History
 <!--
 - (2021.03. ~ 2023.02.) Gachon University - Master of Science in IT Convergence Engineering
 -->
