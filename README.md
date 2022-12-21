@@ -11,8 +11,10 @@
 ### Resume
 
 - https://treasure-education-e9f.notion.site/a455349081d0424583f62a11de4e6076
-- https://treasure-education-e9f.notion.site/b584c946519349aa8a6e53ac6044b815 (정리중)
 
+<!--
+- https://treasure-education-e9f.notion.site/b584c946519349aa8a6e53ac6044b815 (정리중)
+-->
 
 ### Blog
 
