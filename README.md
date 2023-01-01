@@ -11,9 +11,7 @@
 
 - https://treasure-education-e9f.notion.site/a455349081d0424583f62a11de4e6076 (Notion)
 - https://career.programmers.co.kr/pr/ghdrlgus96_7373 (Programmers)
-<!--
-- https://treasure-education-e9f.notion.site/b584c946519349aa8a6e53ac6044b815 (정리중)
--->
+
 ### Blog
 
 - https://kihyeon-hong.github.io/
