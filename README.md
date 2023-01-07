@@ -9,7 +9,7 @@
 
 ### Resume
 
-- https://treasure-education-e9f.notion.site/420d4635c1904106aa8cefaf45f5cd53 (Notion)
+- https://kihyeon-hong.notion.site/420d4635c1904106aa8cefaf45f5cd53 (Notion)
 - https://career.programmers.co.kr/pr/ghdrlgus96_7373 (Programmers)
 
 <!--
