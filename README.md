@@ -11,6 +11,7 @@
 
 - https://kihyeon-hong.notion.site/420d4635c1904106aa8cefaf45f5cd53 (Notion)
 - https://career.programmers.co.kr/pr/ghdrlgus96_7373 (Programmers)
+- https://www.linkedin.com/in/%EA%B8%B0%ED%98%84-%ED%99%8D-9a9032249/ (LinkedIn)
 
 <!--
 
@@ -21,10 +22,6 @@
 
 - https://kihyeon-hong.github.io/
 
-
-### LinkedIn
-
-- https://www.linkedin.com/in/%EA%B8%B0%ED%98%84-%ED%99%8D-9a9032249/
 
 
 ### Self-introduction
