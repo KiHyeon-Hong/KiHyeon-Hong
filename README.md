@@ -14,11 +14,9 @@
 - https://www.linkedin.com/in/%EA%B8%B0%ED%98%84-%ED%99%8D-9a9032249/ (LinkedIn)
 
 
-
 ### Blog
 
 - https://kihyeon-hong.github.io/
-
 
 
 ### Self-introduction
@@ -34,6 +32,7 @@
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=KiHyeon-Hong&margin-w=10&margin-h=10&no-frame=true&no-bg=true&row=1&column=8)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 <!--
 <p align="center">
