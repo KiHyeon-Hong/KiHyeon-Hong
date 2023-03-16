@@ -1,8 +1,9 @@
 ## 👋 Hi, I’m @KiHyeon-Hong
 
 ### Personal History
-
+<!--
 - (2023.03. ~ ) 
+-->
 - (2021.03. ~ 2023.02.) Gachon University - Master of Science in IT Convergence Engineering
 - (2015.03. ~ 2021.02.) Gachon University - Bachelor of Science in Computer engineering
 - (2012.03. ~ 2015.02.) Wolgye High School
