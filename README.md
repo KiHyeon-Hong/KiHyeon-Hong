@@ -38,6 +38,10 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=KiHyeon-Hong&margin-w=10&margin-h=10&no-frame=true&no-bg=true&row=1&column=8)](https://github.com/ryo-ma/github-profile-trophy)
 
+<p align="center">
+  <a href="https://opgc.me/#/users/KiHyeon-Hong" target="_blank"><img src="https://api.opgc.me/githubs/users/KiHyeon-Hong/tag/?theme=basic" /></a>
+</p>
+
 <!--
 <p align="center">
     <img src="https://img.shields.io/badge/-Python-000000?style=flat&logo=Python&logoColor=white">
