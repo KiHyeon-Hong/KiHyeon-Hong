@@ -34,9 +34,8 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=KiHyeon-Hong&count_private=true&show_icons=true" />
 </a>
 
-<p align="center">
-  <a href="https://opgc.me/#/users/KiHyeon-Hong" target="_blank"><img src="https://api.opgc.me/githubs/users/KiHyeon-Hong/tag/?theme=basic" /></a>
-</p>
+<a href="https://opgc.me/#/users/KiHyeon-Hong" target="_blank"><img src="https://api.opgc.me/githubs/users/KiHyeon-Hong/tag/?theme=basic" /></a>
+
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=KiHyeon-Hong&margin-w=10&margin-h=10&no-frame=true&no-bg=true&row=1&column=8)](https://github.com/ryo-ma/github-profile-trophy)
 
