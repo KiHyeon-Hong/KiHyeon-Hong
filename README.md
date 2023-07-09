@@ -7,20 +7,6 @@
 - (2015.03.02 ~ 2021.02.22) Gachon University - Bachelor of Science in Computer engineering
 - (2012.03.02 ~ 2015.02.05) Wolgye High School
 
-<!--
-### Resume
-
-- https://kihyeon-hong.notion.site/420d4635c1904106aa8cefaf45f5cd53 (Notion)
-
-
-### Blog
-
-- https://kihyeon-hong.github.io/
-
-
-### Self-introduction
-- Studying, Researching and Programming Balance
--->
 
 ### Github activity record
 
