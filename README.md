@@ -8,6 +8,11 @@
 - (2012.03.02 ~ 2015.02.05) Wolgye High School
 
 
+### Linked In
+
+- www.linkedin.com/in/kihyeon-hong
+
+
 ### Github activity record
 
 <p align=center>
