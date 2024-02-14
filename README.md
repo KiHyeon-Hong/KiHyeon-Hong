@@ -1,10 +1,10 @@
 ## 👋 Hi, I’m @KiHyeon-Hong
-
-### Personal History
 <!--
+### Personal History
+
 - (2023.05.10 ~ Now) Hanwha Systems/Defense - Junior Engineer
 - (2021.03.02 ~ 2023.02.23) Gachon University - Master of Science in IT Convergence Engineering
--->
+
 - (2015.03.02 ~ 2021.02.22) Gachon University - Bachelor of Science in Computer engineering
 - (2012.03.02 ~ 2015.02.05) Wolgye High School
 
@@ -12,7 +12,7 @@
 ### Linked In
 
 - www.linkedin.com/in/kihyeon-hong
-
+-->
 
 ### Github activity record
 
